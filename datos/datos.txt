@@ -1,0 +1,38 @@
+
+Fecha: 2000-02-19
+Titulo: Noticia del dia
+Texto: Esta seria la noticia numero 1 del dia 
+Autor: Francisco Juan 
+
+Fecha: 2000-02-02
+Titulo: Un error de fabracion dispara el valor de las monedas de dos euros
+Texto: Se trata de 500 monedas de 2 euros fabricadas en lituania y puesta en circulacion en 2021. Estas monedas se están revalorizando entre coleccionistas hasta alcanzar un valor que supera los 2000 euros.
+Autor: Blanca Ruiz
+
+Fecha: 2022-04-16
+Titulo: Calendario laboral 2022
+Texto: Durante el mes de mayo hay bastantes festivos pero, concretamente la duda está con el día 2 de mayo, festivo nacional, y con el 16 de mayo que es únicamente fiesta en la ciudad de Madrid.
+Autor: Roberto Díaz
+
+Fecha: 2000-02-03
+Titulo: El exito de los audiolibros
+Texto: Podemos escuchar desde los best sellers que no pasan de moda, como "la sombra del viento" o las sagras de harry potter.  No es la voz de cualquiera: jose coronado, michelle jenner, o la carismática samantha hudson.
+Autor: Nuria Garcia
+
+Fecha: 2000-02-02
+Titulo: Hola que tal
+Texto: Muy bien muchas gracias
+Autor: Sara Baras
+
+Fecha: 2000-02-02
+Titulo: Hola que tal
+Texto: Muy bien. Gracias
+Autor: Sara Bargas
+
+
+
+Fecha: 2022-03-04
+Titulo: titulo 4
+Texto: texto 4
+Autor: autor 4
+
